@@ -1,0 +1,10 @@
+{
+	"niche": "",
+	"audience": "",
+	"goals": "",
+	"pacing": {"wpm": 135, "wpmCeiling": 145, "minPauseS": 0.3},
+	"voice": {"voiceId": "", "modelId": "eleven_v4"},
+	"sources": [],
+	"compliance": [],
+	"world": {"map": false}
+}

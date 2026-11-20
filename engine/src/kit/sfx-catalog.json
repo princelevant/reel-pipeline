@@ -1,0 +1,5159 @@
+{
+	"whoosh-fast-hard": {
+		"file": "sounds/whooshes/whoosh-fast-hard.wav",
+		"duration": 0.252,
+		"syncAt": 0.092,
+		"meets": "move-peak",
+		"onset": 0.055,
+		"bodyEnd": 0.15,
+		"fits": [
+			0.12,
+			0.44
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"whoosh-fast-medium": {
+		"file": "sounds/whooshes/whoosh-fast-medium.wav",
+		"duration": 0.252,
+		"syncAt": 0.096,
+		"meets": "move-peak",
+		"onset": 0.053,
+		"bodyEnd": 0.163,
+		"fits": [
+			0.12,
+			0.44
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-fast-soft": {
+		"file": "sounds/whooshes/whoosh-fast-soft.wav",
+		"duration": 0.25,
+		"syncAt": 0.099,
+		"meets": "move-peak",
+		"onset": 0.048,
+		"bodyEnd": 0.178,
+		"fits": [
+			0.12,
+			0.44
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-medium-hard": {
+		"file": "sounds/whooshes/whoosh-medium-hard.wav",
+		"duration": 0.55,
+		"syncAt": 0.201,
+		"meets": "move-peak",
+		"onset": 0.114,
+		"bodyEnd": 0.323,
+		"fits": [
+			0.28,
+			0.81
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"whoosh-medium-medium": {
+		"file": "sounds/whooshes/whoosh-medium-medium.wav",
+		"duration": 0.517,
+		"syncAt": 0.209,
+		"meets": "move-peak",
+		"onset": 0.118,
+		"bodyEnd": 0.348,
+		"fits": [
+			0.28,
+			0.81
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-medium-soft": {
+		"file": "sounds/whooshes/whoosh-medium-soft.wav",
+		"duration": 0.543,
+		"syncAt": 0.229,
+		"meets": "move-peak",
+		"onset": 0.1,
+		"bodyEnd": 0.375,
+		"fits": [
+			0.28,
+			0.81
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-slow-hard": {
+		"file": "sounds/whooshes/whoosh-slow-hard.wav",
+		"duration": 1.016,
+		"syncAt": 0.403,
+		"meets": "move-peak",
+		"onset": 0.263,
+		"bodyEnd": 0.626,
+		"fits": [
+			0.52,
+			1.5
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-slow-medium": {
+		"file": "sounds/whooshes/whoosh-slow-medium.wav",
+		"duration": 1.002,
+		"syncAt": 0.438,
+		"meets": "move-peak",
+		"onset": 0.24,
+		"bodyEnd": 0.688,
+		"fits": [
+			0.52,
+			1.5
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"whoosh-slow-soft": {
+		"file": "sounds/whooshes/whoosh-slow-soft.wav",
+		"duration": 1.049,
+		"syncAt": 0.452,
+		"meets": "move-peak",
+		"onset": 0.205,
+		"bodyEnd": 0.753,
+		"fits": [
+			0.52,
+			1.5
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swish-hard": {
+		"file": "sounds/swishes-and-zips/swish-hard.wav",
+		"duration": 0.175,
+		"syncAt": 0.054,
+		"meets": "move-peak",
+		"onset": 0.016,
+		"bodyEnd": 0.098,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swish-medium": {
+		"file": "sounds/swishes-and-zips/swish-medium.wav",
+		"duration": 0.201,
+		"syncAt": 0.076,
+		"meets": "move-peak",
+		"onset": 0.022,
+		"bodyEnd": 0.118,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swish-soft": {
+		"file": "sounds/swishes-and-zips/swish-soft.wav",
+		"duration": 0.223,
+		"syncAt": 0.085,
+		"meets": "move-peak",
+		"onset": 0.022,
+		"bodyEnd": 0.149,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-in-hard": {
+		"file": "sounds/swishes-and-zips/zip-in-hard.wav",
+		"duration": 0.284,
+		"syncAt": 0.188,
+		"meets": "arrival",
+		"onset": 0.08,
+		"bodyEnd": 0.215,
+		"fits": [
+			0.15,
+			0.21
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-in-medium": {
+		"file": "sounds/swishes-and-zips/zip-in-medium.wav",
+		"duration": 0.349,
+		"syncAt": 0.233,
+		"meets": "arrival",
+		"onset": 0.089,
+		"bodyEnd": 0.264,
+		"fits": [
+			0.19,
+			0.26
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-in-soft": {
+		"file": "sounds/swishes-and-zips/zip-in-soft.wav",
+		"duration": 0.414,
+		"syncAt": 0.294,
+		"meets": "arrival",
+		"onset": 0.118,
+		"bodyEnd": 0.318,
+		"fits": [
+			0.23,
+			0.32
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-out-hard": {
+		"file": "sounds/swishes-and-zips/zip-out-hard.wav",
+		"duration": 0.199,
+		"syncAt": 0.011,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.129,
+		"fits": [
+			0.15,
+			0.21
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-out-medium": {
+		"file": "sounds/swishes-and-zips/zip-out-medium.wav",
+		"duration": 0.256,
+		"syncAt": 0.023,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.164,
+		"fits": [
+			0.19,
+			0.26
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"zip-out-soft": {
+		"file": "sounds/swishes-and-zips/zip-out-soft.wav",
+		"duration": 0.307,
+		"syncAt": 0.032,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.186,
+		"fits": [
+			0.22,
+			0.3
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-fast-firm": {
+		"file": "sounds/swipes/swipe-fast-firm.wav",
+		"duration": 0.199,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.165,
+		"fits": [
+			0.14,
+			0.19
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-fast-soft": {
+		"file": "sounds/swipes/swipe-fast-soft.wav",
+		"duration": 0.206,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.165,
+		"fits": [
+			0.14,
+			0.19
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-medium-firm": {
+		"file": "sounds/swipes/swipe-medium-firm.wav",
+		"duration": 0.279,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.237,
+		"fits": [
+			0.2,
+			0.28
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-medium-soft": {
+		"file": "sounds/swipes/swipe-medium-soft.wav",
+		"duration": 0.293,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.237,
+		"fits": [
+			0.2,
+			0.28
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-slow-firm": {
+		"file": "sounds/swipes/swipe-slow-firm.wav",
+		"duration": 0.414,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.388,
+		"fits": [
+			0.32,
+			0.46
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"swipe-slow-soft": {
+		"file": "sounds/swipes/swipe-slow-soft.wav",
+		"duration": 0.431,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.389,
+		"fits": [
+			0.32,
+			0.46
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-long-soft": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-long-soft.wav",
+		"duration": 1.353,
+		"syncAt": 1.192,
+		"meets": "arrival",
+		"onset": 0.607,
+		"bodyEnd": 1.209,
+		"fits": [
+			0.91,
+			1.23
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-long-strong": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-long-strong.wav",
+		"duration": 1.358,
+		"syncAt": 1.165,
+		"meets": "arrival",
+		"onset": 0.601,
+		"bodyEnd": 1.209,
+		"fits": [
+			0.89,
+			1.21
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-medium-soft": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-medium-soft.wav",
+		"duration": 0.861,
+		"syncAt": 0.679,
+		"meets": "arrival",
+		"onset": 0.367,
+		"bodyEnd": 0.706,
+		"fits": [
+			0.52,
+			0.71
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-medium-strong": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-medium-strong.wav",
+		"duration": 0.836,
+		"syncAt": 0.682,
+		"meets": "arrival",
+		"onset": 0.369,
+		"bodyEnd": 0.702,
+		"fits": [
+			0.52,
+			0.7
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-short-soft": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-short-soft.wav",
+		"duration": 0.509,
+		"syncAt": 0.336,
+		"meets": "arrival",
+		"onset": 0.183,
+		"bodyEnd": 0.355,
+		"fits": [
+			0.25,
+			0.34
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"reverse-whoosh-short-strong": {
+		"file": "sounds/reverse-whooshes/reverse-whoosh-short-strong.wav",
+		"duration": 0.499,
+		"syncAt": 0.34,
+		"meets": "arrival",
+		"onset": 0.175,
+		"bodyEnd": 0.355,
+		"fits": [
+			0.26,
+			0.36
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"faller-1s-soft": {
+		"file": "sounds/risers-and-fallers/faller-1s-soft.wav",
+		"duration": 0.862,
+		"syncAt": 0.01,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.386,
+		"fits": [
+			0.74,
+			0.9
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"faller-1s-strong": {
+		"file": "sounds/risers-and-fallers/faller-1s-strong.wav",
+		"duration": 0.88,
+		"syncAt": 0.015,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.393,
+		"fits": [
+			0.74,
+			0.9
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"faller-2s-soft": {
+		"file": "sounds/risers-and-fallers/faller-2s-soft.wav",
+		"duration": 1.831,
+		"syncAt": 0.011,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.684,
+		"fits": [
+			1.59,
+			1.95
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"faller-2s-strong": {
+		"file": "sounds/risers-and-fallers/faller-2s-strong.wav",
+		"duration": 1.882,
+		"syncAt": 0.034,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 0.85,
+		"fits": [
+			1.59,
+			1.95
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"faller-4s-soft": {
+		"file": "sounds/risers-and-fallers/faller-4s-soft.wav",
+		"duration": 3.859,
+		"syncAt": 0.07,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 1.588,
+		"fits": [
+			3.18,
+			3.88
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"faller-4s-strong": {
+		"file": "sounds/risers-and-fallers/faller-4s-strong.wav",
+		"duration": 3.87,
+		"syncAt": 0.01,
+		"meets": "release",
+		"onset": 0,
+		"bodyEnd": 1.487,
+		"fits": [
+			3.31,
+			4.05
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-1s-soft": {
+		"file": "sounds/risers-and-fallers/riser-1s-soft.wav",
+		"duration": 1.19,
+		"syncAt": 0.982,
+		"meets": "arrival",
+		"onset": 0.485,
+		"bodyEnd": 1.083,
+		"fits": [
+			0.82,
+			1
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-1s-strong": {
+		"file": "sounds/risers-and-fallers/riser-1s-strong.wav",
+		"duration": 1.216,
+		"syncAt": 0.984,
+		"meets": "arrival",
+		"onset": 0.462,
+		"bodyEnd": 1.084,
+		"fits": [
+			0.81,
+			0.99
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-2s-soft": {
+		"file": "sounds/risers-and-fallers/riser-2s-soft.wav",
+		"duration": 2.189,
+		"syncAt": 1.994,
+		"meets": "arrival",
+		"onset": 0.922,
+		"bodyEnd": 2.082,
+		"fits": [
+			1.68,
+			2.06
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-2s-strong": {
+		"file": "sounds/risers-and-fallers/riser-2s-strong.wav",
+		"duration": 2.195,
+		"syncAt": 1.978,
+		"meets": "arrival",
+		"onset": 0.895,
+		"bodyEnd": 2.085,
+		"fits": [
+			1.65,
+			2.01
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-4s-soft": {
+		"file": "sounds/risers-and-fallers/riser-4s-soft.wav",
+		"duration": 4.184,
+		"syncAt": 3.945,
+		"meets": "arrival",
+		"onset": 1.874,
+		"bodyEnd": 4.077,
+		"fits": [
+			3.3,
+			4.04
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"riser-4s-strong": {
+		"file": "sounds/risers-and-fallers/riser-4s-strong.wav",
+		"duration": 4.191,
+		"syncAt": 3.977,
+		"meets": "arrival",
+		"onset": 1.824,
+		"bodyEnd": 4.073,
+		"fits": [
+			3.27,
+			4
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"move-bounce": {
+		"file": "sounds/bounce-spin-zoom/move-bounce.wav",
+		"duration": 0.926,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.897,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"move-spin": {
+		"file": "sounds/bounce-spin-zoom/move-spin.wav",
+		"duration": 1.138,
+		"syncAt": 0.007,
+		"meets": "action-start",
+		"onset": 0.044,
+		"bodyEnd": 1.109,
+		"fits": [
+			0.92,
+			1.3
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"move-spring": {
+		"file": "sounds/bounce-spin-zoom/move-spring.wav",
+		"duration": 0.899,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.437,
+		"fits": [
+			0.36,
+			0.51
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"move-zoom-in": {
+		"file": "sounds/bounce-spin-zoom/move-zoom-in.wav",
+		"duration": 0.566,
+		"syncAt": 0.489,
+		"meets": "arrival",
+		"onset": 0.184,
+		"bodyEnd": 0.556,
+		"fits": [
+			0.38,
+			0.54
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"move-zoom-out": {
+		"file": "sounds/bounce-spin-zoom/move-zoom-out.wav",
+		"duration": 0.547,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.405,
+		"fits": [
+			0.34,
+			0.48
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"impact-deep-firm": {
+		"file": "sounds/impacts/impact-deep-firm.wav",
+		"duration": 1.145,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.346,
+		"fits": null,
+		"underVoDb": -7,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"impact-deep-hard": {
+		"file": "sounds/impacts/impact-deep-hard.wav",
+		"duration": 1.205,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.299,
+		"fits": null,
+		"underVoDb": -7,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"impact-deep-soft": {
+		"file": "sounds/impacts/impact-deep-soft.wav",
+		"duration": 1.276,
+		"syncAt": 0.045,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.418,
+		"fits": null,
+		"underVoDb": -7,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"impact-heavy-firm": {
+		"file": "sounds/impacts/impact-heavy-firm.wav",
+		"duration": 0.3,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.109,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-heavy-hard": {
+		"file": "sounds/impacts/impact-heavy-hard.wav",
+		"duration": 0.3,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.096,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-heavy-soft": {
+		"file": "sounds/impacts/impact-heavy-soft.wav",
+		"duration": 0.32,
+		"syncAt": 0.018,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.117,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-light-firm": {
+		"file": "sounds/impacts/impact-light-firm.wav",
+		"duration": 0.099,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.052,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-light-hard": {
+		"file": "sounds/impacts/impact-light-hard.wav",
+		"duration": 0.087,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.026,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-light-soft": {
+		"file": "sounds/impacts/impact-light-soft.wav",
+		"duration": 0.166,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.08,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-medium-firm": {
+		"file": "sounds/impacts/impact-medium-firm.wav",
+		"duration": 0.175,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.082,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-medium-hard": {
+		"file": "sounds/impacts/impact-medium-hard.wav",
+		"duration": 0.162,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.066,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"impact-medium-soft": {
+		"file": "sounds/impacts/impact-medium-soft.wav",
+		"duration": 0.21,
+		"syncAt": 0.013,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.091,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.92,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"cinematic-drum-big": {
+		"file": "sounds/cinematic-hits/cinematic-drum-big.wav",
+		"duration": 2.178,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.274,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-drum-massive": {
+		"file": "sounds/cinematic-hits/cinematic-drum-massive.wav",
+		"duration": 3.335,
+		"syncAt": 0.034,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.873,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-metal-big": {
+		"file": "sounds/cinematic-hits/cinematic-metal-big.wav",
+		"duration": 2.115,
+		"syncAt": 0.03,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.317,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-metal-massive": {
+		"file": "sounds/cinematic-hits/cinematic-metal-massive.wav",
+		"duration": 3.22,
+		"syncAt": 0.015,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.794,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-slam-big": {
+		"file": "sounds/cinematic-hits/cinematic-slam-big.wav",
+		"duration": 2.225,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.203,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-slam-massive": {
+		"file": "sounds/cinematic-hits/cinematic-slam-massive.wav",
+		"duration": 3.143,
+		"syncAt": 0.084,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.82,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-thunder-big": {
+		"file": "sounds/cinematic-hits/cinematic-thunder-big.wav",
+		"duration": 3.813,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.456,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"cinematic-thunder-massive": {
+		"file": "sounds/cinematic-hits/cinematic-thunder-massive.wav",
+		"duration": 4.939,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 2.214,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": true
+	},
+	"bass-808-long": {
+		"file": "sounds/booms-and-bass/bass-808-long.wav",
+		"duration": 2.554,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 2.345,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"bass-808-medium": {
+		"file": "sounds/booms-and-bass/bass-808-medium.wav",
+		"duration": 1.469,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.333,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"bass-808-short": {
+		"file": "sounds/booms-and-bass/bass-808-short.wav",
+		"duration": 0.683,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.614,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"bass-rumble-long": {
+		"file": "sounds/booms-and-bass/bass-rumble-long.wav",
+		"duration": 4.679,
+		"syncAt": 0.052,
+		"meets": "action-start",
+		"onset": 0.279,
+		"bodyEnd": 3.965,
+		"fits": [
+			3.26,
+			4.6
+		],
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"bass-rumble-medium": {
+		"file": "sounds/booms-and-bass/bass-rumble-medium.wav",
+		"duration": 2.805,
+		"syncAt": 0.017,
+		"meets": "action-start",
+		"onset": 0.098,
+		"bodyEnd": 2.18,
+		"fits": [
+			1.8,
+			2.54
+		],
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"bass-rumble-short": {
+		"file": "sounds/booms-and-bass/bass-rumble-short.wav",
+		"duration": 1.528,
+		"syncAt": 0.003,
+		"meets": "action-start",
+		"onset": 0.019,
+		"bodyEnd": 1.162,
+		"fits": [
+			0.97,
+			1.36
+		],
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"bass-sub-drop-long": {
+		"file": "sounds/booms-and-bass/bass-sub-drop-long.wav",
+		"duration": 3.909,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 3.421,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"bass-sub-drop-medium": {
+		"file": "sounds/booms-and-bass/bass-sub-drop-medium.wav",
+		"duration": 2.154,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.882,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"bass-sub-drop-short": {
+		"file": "sounds/booms-and-bass/bass-sub-drop-short.wav",
+		"duration": 1.175,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.036,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"boom-drop-medium": {
+		"file": "sounds/booms-and-bass/boom-drop-medium.wav",
+		"duration": 3.441,
+		"syncAt": 0.052,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.576,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"boom-drop-soft": {
+		"file": "sounds/booms-and-bass/boom-drop-soft.wav",
+		"duration": 2.905,
+		"syncAt": 0.019,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.262,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"boom-drop-strong": {
+		"file": "sounds/booms-and-bass/boom-drop-strong.wav",
+		"duration": 4.293,
+		"syncAt": 0.095,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.705,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"boom-hit-medium": {
+		"file": "sounds/booms-and-bass/boom-hit-medium.wav",
+		"duration": 1.301,
+		"syncAt": 0.038,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.622,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"boom-hit-soft": {
+		"file": "sounds/booms-and-bass/boom-hit-soft.wav",
+		"duration": 1.02,
+		"syncAt": 0.031,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.445,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"boom-hit-strong": {
+		"file": "sounds/booms-and-bass/boom-hit-strong.wav",
+		"duration": 1.693,
+		"syncAt": 0.047,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.744,
+		"fits": null,
+		"underVoDb": -8,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"pop-large-bubble": {
+		"file": "sounds/pops/pop-large-bubble.wav",
+		"duration": 0.208,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.123,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-large-in": {
+		"file": "sounds/pops/pop-large-in.wav",
+		"duration": 0.112,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.052,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-large-out": {
+		"file": "sounds/pops/pop-large-out.wav",
+		"duration": 0.11,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.058,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-medium-bubble": {
+		"file": "sounds/pops/pop-medium-bubble.wav",
+		"duration": 0.126,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.077,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-medium-in": {
+		"file": "sounds/pops/pop-medium-in.wav",
+		"duration": 0.06,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.034,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-medium-out": {
+		"file": "sounds/pops/pop-medium-out.wav",
+		"duration": 0.069,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.039,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-small-bubble": {
+		"file": "sounds/pops/pop-small-bubble.wav",
+		"duration": 0.081,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.051,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-small-in": {
+		"file": "sounds/pops/pop-small-in.wav",
+		"duration": 0.04,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.025,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"pop-small-out": {
+		"file": "sounds/pops/pop-small-out.wav",
+		"duration": 0.051,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.03,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"appear-burst": {
+		"file": "sounds/appear-and-vanish/appear-burst.wav",
+		"duration": 1.005,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.284,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"appear-dissolve": {
+		"file": "sounds/appear-and-vanish/appear-dissolve.wav",
+		"duration": 1.15,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.004,
+		"bodyEnd": 0.935,
+		"fits": [
+			0.78,
+			1.1
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"appear-flip-quick": {
+		"file": "sounds/appear-and-vanish/appear-flip-quick.wav",
+		"duration": 0.178,
+		"syncAt": 0.155,
+		"meets": "arrival",
+		"onset": 0.011,
+		"bodyEnd": 0.169,
+		"fits": [
+			0.13,
+			0.18
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"appear-flip-slow": {
+		"file": "sounds/appear-and-vanish/appear-flip-slow.wav",
+		"duration": 0.437,
+		"syncAt": 0.407,
+		"meets": "arrival",
+		"onset": 0.039,
+		"bodyEnd": 0.425,
+		"fits": [
+			0.34,
+			0.48
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"appear-materialise": {
+		"file": "sounds/appear-and-vanish/appear-materialise.wav",
+		"duration": 1.209,
+		"syncAt": 0.026,
+		"meets": "action-start",
+		"onset": 0.12,
+		"bodyEnd": 1.145,
+		"fits": [
+			0.93,
+			1.32
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"appear-poof": {
+		"file": "sounds/appear-and-vanish/appear-poof.wav",
+		"duration": 0.62,
+		"syncAt": 0.026,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.332,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"transform-deflate": {
+		"file": "sounds/shape-changes/transform-deflate.wav",
+		"duration": 0.891,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.012,
+		"bodyEnd": 0.861,
+		"fits": [
+			0.69,
+			1.08
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-empty": {
+		"file": "sounds/shape-changes/transform-empty.wav",
+		"duration": 0.952,
+		"syncAt": 0.003,
+		"meets": "action-start",
+		"onset": 0.021,
+		"bodyEnd": 0.913,
+		"fits": [
+			0.73,
+			1.14
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-fill": {
+		"file": "sounds/shape-changes/transform-fill.wav",
+		"duration": 1.218,
+		"syncAt": 0.003,
+		"meets": "action-start",
+		"onset": 0.025,
+		"bodyEnd": 1.182,
+		"fits": [
+			0.94,
+			1.47
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-grow": {
+		"file": "sounds/shape-changes/transform-grow.wav",
+		"duration": 0.693,
+		"syncAt": 0.003,
+		"meets": "action-start",
+		"onset": 0.033,
+		"bodyEnd": 0.679,
+		"fits": [
+			0.54,
+			0.85
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-inflate": {
+		"file": "sounds/shape-changes/transform-inflate.wav",
+		"duration": 0.891,
+		"syncAt": 0.001,
+		"meets": "action-start",
+		"onset": 0.01,
+		"bodyEnd": 0.87,
+		"fits": [
+			0.7,
+			1.09
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-morph": {
+		"file": "sounds/shape-changes/transform-morph.wav",
+		"duration": 0.803,
+		"syncAt": 0.002,
+		"meets": "action-start",
+		"onset": 0.028,
+		"bodyEnd": 0.777,
+		"fits": [
+			0.62,
+			0.97
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-shrink": {
+		"file": "sounds/shape-changes/transform-shrink.wav",
+		"duration": 0.604,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.002,
+		"bodyEnd": 0.578,
+		"fits": [
+			0.46,
+			0.72
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"transform-stretch": {
+		"file": "sounds/shape-changes/transform-stretch.wav",
+		"duration": 0.599,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.013,
+		"bodyEnd": 0.584,
+		"fits": [
+			0.47,
+			0.73
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.8,
+			1.25
+		],
+		"coversVoice": false
+	},
+	"click-button-firm": {
+		"file": "sounds/interface/click-button-firm.wav",
+		"duration": 0.02,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.015,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-button-medium": {
+		"file": "sounds/interface/click-button-medium.wav",
+		"duration": 0.017,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.014,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-button-soft": {
+		"file": "sounds/interface/click-button-soft.wav",
+		"duration": 0.016,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.013,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clap-firm": {
+		"file": "sounds/interface/click-clap-firm.wav",
+		"duration": 0.149,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.041,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clap-medium": {
+		"file": "sounds/interface/click-clap-medium.wav",
+		"duration": 0.166,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.04,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clap-soft": {
+		"file": "sounds/interface/click-clap-soft.wav",
+		"duration": 0.177,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.045,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clip-firm": {
+		"file": "sounds/interface/click-clip-firm.wav",
+		"duration": 0.056,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.031,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clip-medium": {
+		"file": "sounds/interface/click-clip-medium.wav",
+		"duration": 0.049,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.025,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-clip-soft": {
+		"file": "sounds/interface/click-clip-soft.wav",
+		"duration": 0.046,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.023,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-hover-firm": {
+		"file": "sounds/interface/click-hover-firm.wav",
+		"duration": 0.015,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.012,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-hover-medium": {
+		"file": "sounds/interface/click-hover-medium.wav",
+		"duration": 0.014,
+		"syncAt": 0.008,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.012,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-hover-soft": {
+		"file": "sounds/interface/click-hover-soft.wav",
+		"duration": 0.014,
+		"syncAt": 0.007,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.012,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-latch-firm": {
+		"file": "sounds/interface/click-latch-firm.wav",
+		"duration": 0.038,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.037,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-latch-medium": {
+		"file": "sounds/interface/click-latch-medium.wav",
+		"duration": 0.038,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.037,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-latch-soft": {
+		"file": "sounds/interface/click-latch-soft.wav",
+		"duration": 0.038,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.037,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-mouse-firm": {
+		"file": "sounds/interface/click-mouse-firm.wav",
+		"duration": 0.094,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.089,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-mouse-medium": {
+		"file": "sounds/interface/click-mouse-medium.wav",
+		"duration": 0.092,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.088,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-mouse-soft": {
+		"file": "sounds/interface/click-mouse-soft.wav",
+		"duration": 0.099,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.097,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-rocker-firm": {
+		"file": "sounds/interface/click-rocker-firm.wav",
+		"duration": 0.046,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.034,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-rocker-medium": {
+		"file": "sounds/interface/click-rocker-medium.wav",
+		"duration": 0.045,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.034,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-rocker-soft": {
+		"file": "sounds/interface/click-rocker-soft.wav",
+		"duration": 0.04,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.031,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-snap-firm": {
+		"file": "sounds/interface/click-snap-firm.wav",
+		"duration": 0.125,
+		"syncAt": 0.015,
+		"meets": "instant",
+		"onset": 0.001,
+		"bodyEnd": 0.033,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-snap-medium": {
+		"file": "sounds/interface/click-snap-medium.wav",
+		"duration": 0.128,
+		"syncAt": 0.015,
+		"meets": "instant",
+		"onset": 0.001,
+		"bodyEnd": 0.033,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-snap-soft": {
+		"file": "sounds/interface/click-snap-soft.wav",
+		"duration": 0.148,
+		"syncAt": 0.015,
+		"meets": "instant",
+		"onset": 0.001,
+		"bodyEnd": 0.037,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-tap-firm": {
+		"file": "sounds/interface/click-tap-firm.wav",
+		"duration": 0.024,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.017,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-tap-medium": {
+		"file": "sounds/interface/click-tap-medium.wav",
+		"duration": 0.022,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.016,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-tap-soft": {
+		"file": "sounds/interface/click-tap-soft.wav",
+		"duration": 0.016,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.015,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-firm": {
+		"file": "sounds/interface/click-toggle-firm.wav",
+		"duration": 0.044,
+		"syncAt": 0.031,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.039,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-medium": {
+		"file": "sounds/interface/click-toggle-medium.wav",
+		"duration": 0.042,
+		"syncAt": 0.031,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.038,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-off-firm": {
+		"file": "sounds/interface/click-toggle-off-firm.wav",
+		"duration": 0.054,
+		"syncAt": 0.035,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.045,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-off-medium": {
+		"file": "sounds/interface/click-toggle-off-medium.wav",
+		"duration": 0.051,
+		"syncAt": 0.035,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.044,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-off-soft": {
+		"file": "sounds/interface/click-toggle-off-soft.wav",
+		"duration": 0.052,
+		"syncAt": 0.04,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.047,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-on-firm": {
+		"file": "sounds/interface/click-toggle-on-firm.wav",
+		"duration": 0.038,
+		"syncAt": 0.025,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.033,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-on-medium": {
+		"file": "sounds/interface/click-toggle-on-medium.wav",
+		"duration": 0.034,
+		"syncAt": 0.025,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.031,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-on-soft": {
+		"file": "sounds/interface/click-toggle-on-soft.wav",
+		"duration": 0.038,
+		"syncAt": 0.03,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.035,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"click-toggle-soft": {
+		"file": "sounds/interface/click-toggle-soft.wav",
+		"duration": 0.046,
+		"syncAt": 0.037,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.043,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"keyboard-letter-firm": {
+		"file": "sounds/keyboard/keyboard-letter-firm.wav",
+		"duration": 0.081,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.078,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-letter-medium": {
+		"file": "sounds/keyboard/keyboard-letter-medium.wav",
+		"duration": 0.083,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.081,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-letter-soft": {
+		"file": "sounds/keyboard/keyboard-letter-soft.wav",
+		"duration": 0.089,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.087,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-return-firm": {
+		"file": "sounds/keyboard/keyboard-return-firm.wav",
+		"duration": 0.09,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.09,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-return-medium": {
+		"file": "sounds/keyboard/keyboard-return-medium.wav",
+		"duration": 0.1,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.099,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-return-soft": {
+		"file": "sounds/keyboard/keyboard-return-soft.wav",
+		"duration": 0.106,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.105,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-space-firm": {
+		"file": "sounds/keyboard/keyboard-space-firm.wav",
+		"duration": 0.116,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.113,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-space-medium": {
+		"file": "sounds/keyboard/keyboard-space-medium.wav",
+		"duration": 0.103,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.101,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-space-soft": {
+		"file": "sounds/keyboard/keyboard-space-soft.wav",
+		"duration": 0.116,
+		"syncAt": 0.009,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.114,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-quick-long": {
+		"file": "sounds/keyboard/keyboard-typing-quick-long.wav",
+		"duration": 3.152,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 3.093,
+		"fits": [
+			2.81,
+			3.44
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-quick-medium": {
+		"file": "sounds/keyboard/keyboard-typing-quick-medium.wav",
+		"duration": 1.656,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.584,
+		"fits": [
+			1.44,
+			1.76
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-quick-short": {
+		"file": "sounds/keyboard/keyboard-typing-quick-short.wav",
+		"duration": 0.73,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.641,
+		"fits": [
+			0.58,
+			0.71
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-steady-long": {
+		"file": "sounds/keyboard/keyboard-typing-steady-long.wav",
+		"duration": 3.076,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 3.006,
+		"fits": [
+			2.73,
+			3.34
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-steady-medium": {
+		"file": "sounds/keyboard/keyboard-typing-steady-medium.wav",
+		"duration": 1.532,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.472,
+		"fits": [
+			1.34,
+			1.64
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"keyboard-typing-steady-short": {
+		"file": "sounds/keyboard/keyboard-typing-steady-short.wav",
+		"duration": 0.788,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.728,
+		"fits": [
+			0.66,
+			0.81
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"writing-chalk-draw": {
+		"file": "sounds/writing-and-drawing/writing-chalk-draw.wav",
+		"duration": 1.008,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.964,
+		"fits": [
+			0.8,
+			1.13
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-chalk-tick": {
+		"file": "sounds/writing-and-drawing/writing-chalk-tick.wav",
+		"duration": 0.238,
+		"syncAt": 0.165,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.229,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-chalk-write": {
+		"file": "sounds/writing-and-drawing/writing-chalk-write.wav",
+		"duration": 1.372,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.358,
+		"fits": [
+			1.13,
+			1.6
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-eraser": {
+		"file": "sounds/writing-and-drawing/writing-eraser.wav",
+		"duration": 0.764,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.006,
+		"bodyEnd": 0.756,
+		"fits": [
+			0.63,
+			0.89
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-highlighter": {
+		"file": "sounds/writing-and-drawing/writing-highlighter.wav",
+		"duration": 0.381,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.36,
+		"fits": [
+			0.3,
+			0.42
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-marker-draw": {
+		"file": "sounds/writing-and-drawing/writing-marker-draw.wav",
+		"duration": 1.063,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.012,
+		"fits": [
+			0.84,
+			1.19
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-marker-tick": {
+		"file": "sounds/writing-and-drawing/writing-marker-tick.wav",
+		"duration": 0.243,
+		"syncAt": 0.15,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.224,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-marker-write": {
+		"file": "sounds/writing-and-drawing/writing-marker-write.wav",
+		"duration": 1.341,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.326,
+		"fits": [
+			1.11,
+			1.56
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pen-draw": {
+		"file": "sounds/writing-and-drawing/writing-pen-draw.wav",
+		"duration": 1.269,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.243,
+		"fits": [
+			1.04,
+			1.46
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pen-tick": {
+		"file": "sounds/writing-and-drawing/writing-pen-tick.wav",
+		"duration": 0.242,
+		"syncAt": 0.155,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.229,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pen-write": {
+		"file": "sounds/writing-and-drawing/writing-pen-write.wav",
+		"duration": 1.328,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.32,
+		"fits": [
+			1.1,
+			1.55
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pencil-draw": {
+		"file": "sounds/writing-and-drawing/writing-pencil-draw.wav",
+		"duration": 1.448,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.446,
+		"fits": [
+			1.21,
+			1.7
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pencil-tick": {
+		"file": "sounds/writing-and-drawing/writing-pencil-tick.wav",
+		"duration": 0.242,
+		"syncAt": 0.157,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.229,
+		"fits": null,
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-pencil-write": {
+		"file": "sounds/writing-and-drawing/writing-pencil-write.wav",
+		"duration": 1.191,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.178,
+		"fits": [
+			0.98,
+			1.39
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-scribble": {
+		"file": "sounds/writing-and-drawing/writing-scribble.wav",
+		"duration": 0.997,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.989,
+		"fits": [
+			0.82,
+			1.16
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"writing-wipe": {
+		"file": "sounds/writing-and-drawing/writing-wipe.wav",
+		"duration": 0.736,
+		"syncAt": 0.001,
+		"meets": "action-start",
+		"onset": 0.02,
+		"bodyEnd": 0.714,
+		"fits": [
+			0.59,
+			0.84
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"phone-keypad": {
+		"file": "sounds/phone/phone-keypad.wav",
+		"duration": 1.116,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.109,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"phone-ring-classic": {
+		"file": "sounds/phone/phone-ring-classic.wav",
+		"duration": 2.906,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 2.711,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": true
+	},
+	"phone-ring-modern": {
+		"file": "sounds/phone/phone-ring-modern.wav",
+		"duration": 2.079,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.792,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"phone-vibrate-hand": {
+		"file": "sounds/phone/phone-vibrate-hand.wav",
+		"duration": 0.344,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.333,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"phone-vibrate-table": {
+		"file": "sounds/phone/phone-vibrate-table.wav",
+		"duration": 1.116,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.101,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.92,
+			1.08
+		],
+		"coversVoice": false
+	},
+	"mechanical-latch-heavy": {
+		"file": "sounds/mechanical/mechanical-latch-heavy.wav",
+		"duration": 0.191,
+		"syncAt": 0.078,
+		"meets": "instant",
+		"onset": 0.012,
+		"bodyEnd": 0.12,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-latch-light": {
+		"file": "sounds/mechanical/mechanical-latch-light.wav",
+		"duration": 0.112,
+		"syncAt": 0.052,
+		"meets": "instant",
+		"onset": 0.005,
+		"bodyEnd": 0.08,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-lock-heavy": {
+		"file": "sounds/mechanical/mechanical-lock-heavy.wav",
+		"duration": 0.464,
+		"syncAt": 0.331,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.392,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-lock-light": {
+		"file": "sounds/mechanical/mechanical-lock-light.wav",
+		"duration": 0.293,
+		"syncAt": 0.21,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.248,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-ratchet-heavy": {
+		"file": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+		"duration": 0.532,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.515,
+		"fits": [
+			0.46,
+			0.57
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-ratchet-light": {
+		"file": "sounds/mechanical/mechanical-ratchet-light.wav",
+		"duration": 0.398,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.389,
+		"fits": [
+			0.35,
+			0.43
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-shutter-heavy": {
+		"file": "sounds/mechanical/mechanical-shutter-heavy.wav",
+		"duration": 0.184,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.147,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-shutter-light": {
+		"file": "sounds/mechanical/mechanical-shutter-light.wav",
+		"duration": 0.11,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.085,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-slider-heavy": {
+		"file": "sounds/mechanical/mechanical-slider-heavy.wav",
+		"duration": 0.734,
+		"syncAt": 0.615,
+		"meets": "arrival",
+		"onset": 0.026,
+		"bodyEnd": 0.669,
+		"fits": [
+			0.55,
+			0.68
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-slider-light": {
+		"file": "sounds/mechanical/mechanical-slider-light.wav",
+		"duration": 0.439,
+		"syncAt": 0.424,
+		"meets": "arrival",
+		"onset": 0.023,
+		"bodyEnd": 0.434,
+		"fits": [
+			0.38,
+			0.47
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-switch-heavy": {
+		"file": "sounds/mechanical/mechanical-switch-heavy.wav",
+		"duration": 0.099,
+		"syncAt": 0.021,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.046,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"mechanical-switch-light": {
+		"file": "sounds/mechanical/mechanical-switch-light.wav",
+		"duration": 0.032,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.024,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-card-slide": {
+		"file": "sounds/foley/foley-card-slide.wav",
+		"duration": 0.362,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.021,
+		"bodyEnd": 0.338,
+		"fits": [
+			0.3,
+			0.38
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-card-touch": {
+		"file": "sounds/foley/foley-card-touch.wav",
+		"duration": 0.05,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.025,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-fabric-slide": {
+		"file": "sounds/foley/foley-fabric-slide.wav",
+		"duration": 0.44,
+		"syncAt": 0.006,
+		"meets": "action-start",
+		"onset": 0.054,
+		"bodyEnd": 0.403,
+		"fits": [
+			0.35,
+			0.44
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-fabric-touch": {
+		"file": "sounds/foley/foley-fabric-touch.wav",
+		"duration": 0.265,
+		"syncAt": 0.022,
+		"meets": "instant",
+		"onset": 0.002,
+		"bodyEnd": 0.146,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-glass-slide": {
+		"file": "sounds/foley/foley-glass-slide.wav",
+		"duration": 0.645,
+		"syncAt": 0.002,
+		"meets": "action-start",
+		"onset": 0.028,
+		"bodyEnd": 0.528,
+		"fits": [
+			0.47,
+			0.58
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-glass-touch": {
+		"file": "sounds/foley/foley-glass-touch.wav",
+		"duration": 0.47,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.215,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-paper-slide": {
+		"file": "sounds/foley/foley-paper-slide.wav",
+		"duration": 0.492,
+		"syncAt": 0.006,
+		"meets": "action-start",
+		"onset": 0.038,
+		"bodyEnd": 0.458,
+		"fits": [
+			0.4,
+			0.5
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-paper-touch": {
+		"file": "sounds/foley/foley-paper-touch.wav",
+		"duration": 0.31,
+		"syncAt": 0.022,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.166,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-plastic-slide": {
+		"file": "sounds/foley/foley-plastic-slide.wav",
+		"duration": 0.407,
+		"syncAt": 0.006,
+		"meets": "action-start",
+		"onset": 0.045,
+		"bodyEnd": 0.36,
+		"fits": [
+			0.32,
+			0.39
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-plastic-touch": {
+		"file": "sounds/foley/foley-plastic-touch.wav",
+		"duration": 0.079,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.043,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-wood-slide": {
+		"file": "sounds/foley/foley-wood-slide.wav",
+		"duration": 0.585,
+		"syncAt": 0.01,
+		"meets": "action-start",
+		"onset": 0.051,
+		"bodyEnd": 0.541,
+		"fits": [
+			0.47,
+			0.59
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"foley-wood-touch": {
+		"file": "sounds/foley/foley-wood-touch.wav",
+		"duration": 0.128,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.065,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"props-book-close": {
+		"file": "sounds/everyday-props/props-book-close.wav",
+		"duration": 0.204,
+		"syncAt": 0.052,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.117,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-box-open": {
+		"file": "sounds/everyday-props/props-box-open.wav",
+		"duration": 0.688,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.031,
+		"bodyEnd": 0.638,
+		"fits": [
+			0.55,
+			0.75
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-doorbell": {
+		"file": "sounds/everyday-props/props-doorbell.wav",
+		"duration": 1.712,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.057,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"props-drip": {
+		"file": "sounds/everyday-props/props-drip.wav",
+		"duration": 1.417,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.167,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-page-turn": {
+		"file": "sounds/everyday-props/props-page-turn.wav",
+		"duration": 0.54,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.003,
+		"bodyEnd": 0.484,
+		"fits": [
+			0.42,
+			0.57
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-scissors": {
+		"file": "sounds/everyday-props/props-scissors.wav",
+		"duration": 0.19,
+		"syncAt": 0.158,
+		"meets": "instant",
+		"onset": 0.06,
+		"bodyEnd": 0.175,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-shop-bell": {
+		"file": "sounds/everyday-props/props-shop-bell.wav",
+		"duration": 1.415,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.922,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"props-splash": {
+		"file": "sounds/everyday-props/props-splash.wav",
+		"duration": 0.673,
+		"syncAt": 0.013,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.643,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-tape": {
+		"file": "sounds/everyday-props/props-tape.wav",
+		"duration": 0.608,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.013,
+		"bodyEnd": 0.586,
+		"fits": [
+			0.51,
+			0.69
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"props-zip": {
+		"file": "sounds/everyday-props/props-zip.wav",
+		"duration": 0.611,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.604,
+		"fits": [
+			0.53,
+			0.71
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.85,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"notification-alert-clear": {
+		"file": "sounds/notifications/notification-alert-clear.wav",
+		"duration": 0.657,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.33,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-alert-soft": {
+		"file": "sounds/notifications/notification-alert-soft.wav",
+		"duration": 0.458,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.274,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-attention-clear": {
+		"file": "sounds/notifications/notification-attention-clear.wav",
+		"duration": 0.548,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.256,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-attention-soft": {
+		"file": "sounds/notifications/notification-attention-soft.wav",
+		"duration": 0.328,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.237,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-error-clear": {
+		"file": "sounds/notifications/notification-error-clear.wav",
+		"duration": 0.905,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.473,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-error-soft": {
+		"file": "sounds/notifications/notification-error-soft.wav",
+		"duration": 0.567,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.33,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-deflate": {
+		"file": "sounds/notifications/notification-failure-deflate.wav",
+		"duration": 0.541,
+		"syncAt": 0.002,
+		"meets": "instant",
+		"onset": 0.002,
+		"bodyEnd": 0.411,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-fall": {
+		"file": "sounds/notifications/notification-failure-fall.wav",
+		"duration": 1.318,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.679,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-knock": {
+		"file": "sounds/notifications/notification-failure-knock.wav",
+		"duration": 0.318,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.188,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-low": {
+		"file": "sounds/notifications/notification-failure-low.wav",
+		"duration": 0.703,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.334,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-minor": {
+		"file": "sounds/notifications/notification-failure-minor.wav",
+		"duration": 0.748,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.454,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-pluck": {
+		"file": "sounds/notifications/notification-failure-pluck.wav",
+		"duration": 0.319,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.199,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-thud": {
+		"file": "sounds/notifications/notification-failure-thud.wav",
+		"duration": 0.982,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.442,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-failure-wobble": {
+		"file": "sounds/notifications/notification-failure-wobble.wav",
+		"duration": 0.535,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.273,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-message-in-clear": {
+		"file": "sounds/notifications/notification-message-in-clear.wav",
+		"duration": 0.607,
+		"syncAt": 0.041,
+		"meets": "instant",
+		"onset": 0.041,
+		"bodyEnd": 0.324,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-message-in-soft": {
+		"file": "sounds/notifications/notification-message-in-soft.wav",
+		"duration": 0.423,
+		"syncAt": 0.046,
+		"meets": "instant",
+		"onset": 0.046,
+		"bodyEnd": 0.235,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-message-out-clear": {
+		"file": "sounds/notifications/notification-message-out-clear.wav",
+		"duration": 0.568,
+		"syncAt": 0.052,
+		"meets": "instant",
+		"onset": 0.052,
+		"bodyEnd": 0.3,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-message-out-soft": {
+		"file": "sounds/notifications/notification-message-out-soft.wav",
+		"duration": 0.283,
+		"syncAt": 0.061,
+		"meets": "instant",
+		"onset": 0.061,
+		"bodyEnd": 0.171,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-bubble": {
+		"file": "sounds/notifications/notification-success-bubble.wav",
+		"duration": 0.636,
+		"syncAt": 0.045,
+		"meets": "instant",
+		"onset": 0.045,
+		"bodyEnd": 0.363,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-chime": {
+		"file": "sounds/notifications/notification-success-chime.wav",
+		"duration": 0.963,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.505,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-clear": {
+		"file": "sounds/notifications/notification-success-clear.wav",
+		"duration": 0.606,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.35,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-ding-ding": {
+		"file": "sounds/notifications/notification-success-ding-ding.wav",
+		"duration": 0.987,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.543,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-fanfare": {
+		"file": "sounds/notifications/notification-success-fanfare.wav",
+		"duration": 0.524,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.324,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-flourish": {
+		"file": "sounds/notifications/notification-success-flourish.wav",
+		"duration": 0.535,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.342,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-pluck": {
+		"file": "sounds/notifications/notification-success-pluck.wav",
+		"duration": 1.161,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.607,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-soft": {
+		"file": "sounds/notifications/notification-success-soft.wav",
+		"duration": 0.53,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.305,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-sparkle": {
+		"file": "sounds/notifications/notification-success-sparkle.wav",
+		"duration": 0.632,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.392,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"notification-success-warm": {
+		"file": "sounds/notifications/notification-success-warm.wav",
+		"duration": 0.68,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.333,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-ding-high": {
+		"file": "sounds/tones/tone-ding-high.wav",
+		"duration": 0.812,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.36,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-ding-low": {
+		"file": "sounds/tones/tone-ding-low.wav",
+		"duration": 1.14,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.523,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-ding-mid": {
+		"file": "sounds/tones/tone-ding-mid.wav",
+		"duration": 1.064,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.48,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-step-1": {
+		"file": "sounds/tones/tone-step-1.wav",
+		"duration": 0.513,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.252,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-step-2": {
+		"file": "sounds/tones/tone-step-2.wav",
+		"duration": 0.445,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.227,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-step-3": {
+		"file": "sounds/tones/tone-step-3.wav",
+		"duration": 0.403,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.206,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-step-4": {
+		"file": "sounds/tones/tone-step-4.wav",
+		"duration": 0.372,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.176,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"tone-step-5": {
+		"file": "sounds/tones/tone-step-5.wav",
+		"duration": 0.347,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.169,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-long-bright": {
+		"file": "sounds/shimmers/shimmer-long-bright.wav",
+		"duration": 2.072,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.236,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-long-soft": {
+		"file": "sounds/shimmers/shimmer-long-soft.wav",
+		"duration": 1.923,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.443,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-long-sparkle": {
+		"file": "sounds/shimmers/shimmer-long-sparkle.wav",
+		"duration": 1.854,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.514,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-medium-bright": {
+		"file": "sounds/shimmers/shimmer-medium-bright.wav",
+		"duration": 1.109,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.578,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-medium-soft": {
+		"file": "sounds/shimmers/shimmer-medium-soft.wav",
+		"duration": 1.13,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.749,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-medium-sparkle": {
+		"file": "sounds/shimmers/shimmer-medium-sparkle.wav",
+		"duration": 1.105,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.747,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-short-bright": {
+		"file": "sounds/shimmers/shimmer-short-bright.wav",
+		"duration": 0.511,
+		"syncAt": 0.013,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.287,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-short-soft": {
+		"file": "sounds/shimmers/shimmer-short-soft.wav",
+		"duration": 0.478,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.2,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"shimmer-short-sparkle": {
+		"file": "sounds/shimmers/shimmer-short-sparkle.wav",
+		"duration": 0.53,
+		"syncAt": 0.012,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.354,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"sting-airy-long": {
+		"file": "sounds/logo-stings/sting-airy-long.wav",
+		"duration": 4.649,
+		"syncAt": 0.861,
+		"meets": "instant",
+		"onset": 0.581,
+		"bodyEnd": 2.342,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-airy-short": {
+		"file": "sounds/logo-stings/sting-airy-short.wav",
+		"duration": 3.14,
+		"syncAt": 0.148,
+		"meets": "instant",
+		"onset": 0.079,
+		"bodyEnd": 1.555,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-bold-long": {
+		"file": "sounds/logo-stings/sting-bold-long.wav",
+		"duration": 2.627,
+		"syncAt": 1.041,
+		"meets": "instant",
+		"onset": 0.597,
+		"bodyEnd": 1.776,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-bold-short": {
+		"file": "sounds/logo-stings/sting-bold-short.wav",
+		"duration": 1.708,
+		"syncAt": 0.304,
+		"meets": "instant",
+		"onset": 0.143,
+		"bodyEnd": 0.983,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-bright-long": {
+		"file": "sounds/logo-stings/sting-bright-long.wav",
+		"duration": 3.206,
+		"syncAt": 0.919,
+		"meets": "instant",
+		"onset": 0.896,
+		"bodyEnd": 2.315,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-bright-short": {
+		"file": "sounds/logo-stings/sting-bright-short.wav",
+		"duration": 1.53,
+		"syncAt": 0.139,
+		"meets": "instant",
+		"onset": 0.116,
+		"bodyEnd": 0.881,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-minimal-long": {
+		"file": "sounds/logo-stings/sting-minimal-long.wav",
+		"duration": 2.222,
+		"syncAt": 0.797,
+		"meets": "instant",
+		"onset": 0.493,
+		"bodyEnd": 1.406,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-minimal-short": {
+		"file": "sounds/logo-stings/sting-minimal-short.wav",
+		"duration": 1.263,
+		"syncAt": 0.1,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.705,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-playful-long": {
+		"file": "sounds/logo-stings/sting-playful-long.wav",
+		"duration": 2.028,
+		"syncAt": 0.871,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.439,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-playful-short": {
+		"file": "sounds/logo-stings/sting-playful-short.wav",
+		"duration": 1.237,
+		"syncAt": 0.131,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.63,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-tech-long": {
+		"file": "sounds/logo-stings/sting-tech-long.wav",
+		"duration": 4.357,
+		"syncAt": 0.926,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 2.531,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-tech-short": {
+		"file": "sounds/logo-stings/sting-tech-short.wav",
+		"duration": 3.143,
+		"syncAt": 0.155,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.662,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-warm-long": {
+		"file": "sounds/logo-stings/sting-warm-long.wav",
+		"duration": 2.476,
+		"syncAt": 0.782,
+		"meets": "instant",
+		"onset": 0.002,
+		"bodyEnd": 1.59,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"sting-warm-short": {
+		"file": "sounds/logo-stings/sting-warm-short.wav",
+		"duration": 1.672,
+		"syncAt": 0.107,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.809,
+		"fits": null,
+		"underVoDb": -6,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": true
+	},
+	"celebration-applause-big": {
+		"file": "sounds/celebration/celebration-applause-big.wav",
+		"duration": 4.577,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 3.888,
+		"fits": [
+			3.53,
+			4.32
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"celebration-applause-small": {
+		"file": "sounds/celebration/celebration-applause-small.wav",
+		"duration": 2.938,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 2.857,
+		"fits": [
+			2.6,
+			3.17
+		],
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"celebration-confetti": {
+		"file": "sounds/celebration/celebration-confetti.wav",
+		"duration": 2.05,
+		"syncAt": 0.166,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.555,
+		"fits": null,
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"celebration-fireworks": {
+		"file": "sounds/celebration/celebration-fireworks.wav",
+		"duration": 3.334,
+		"syncAt": 0.989,
+		"meets": "instant",
+		"onset": 0.049,
+		"bodyEnd": 2.347,
+		"fits": null,
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"celebration-popper": {
+		"file": "sounds/celebration/celebration-popper.wav",
+		"duration": 0.953,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.281,
+		"fits": null,
+		"underVoDb": -5,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"time-alarm": {
+		"file": "sounds/time/time-alarm.wav",
+		"duration": 2.314,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 2.078,
+		"fits": [
+			1.89,
+			2.31
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": true
+	},
+	"time-clock": {
+		"file": "sounds/time/time-clock.wav",
+		"duration": 3.037,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 3.02,
+		"fits": [
+			2.75,
+			3.36
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"time-clock-fast": {
+		"file": "sounds/time/time-clock-fast.wav",
+		"duration": 2.534,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 2.519,
+		"fits": [
+			2.29,
+			2.8
+		],
+		"underVoDb": -1,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"time-countdown": {
+		"file": "sounds/time/time-countdown.wav",
+		"duration": 3.604,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 3.593,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			1,
+			1
+		],
+		"coversVoice": false
+	},
+	"time-stopwatch": {
+		"file": "sounds/time/time-stopwatch.wav",
+		"duration": 1.628,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.617,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"time-timer": {
+		"file": "sounds/time/time-timer.wav",
+		"duration": 1.102,
+		"syncAt": 0.139,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.558,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.1
+		],
+		"coversVoice": false
+	},
+	"money-card-tap": {
+		"file": "sounds/money/money-card-tap.wav",
+		"duration": 0.274,
+		"syncAt": 0.113,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.267,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-coin-drop": {
+		"file": "sounds/money/money-coin-drop.wav",
+		"duration": 0.681,
+		"syncAt": 0.01,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.527,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-coin-spin": {
+		"file": "sounds/money/money-coin-spin.wav",
+		"duration": 2.065,
+		"syncAt": 1.672,
+		"meets": "arrival",
+		"onset": 0,
+		"bodyEnd": 1.91,
+		"fits": [
+			1.49,
+			1.86
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-coin-stack": {
+		"file": "sounds/money/money-coin-stack.wav",
+		"duration": 0.865,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.825,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-coins-pour": {
+		"file": "sounds/money/money-coins-pour.wav",
+		"duration": 1.125,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.011,
+		"bodyEnd": 1.005,
+		"fits": [
+			0.9,
+			1.12
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-notes": {
+		"file": "sounds/money/money-notes.wav",
+		"duration": 0.808,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.78,
+		"fits": [
+			0.7,
+			0.87
+		],
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"money-register": {
+		"file": "sounds/money/money-register.wav",
+		"duration": 0.912,
+		"syncAt": 0.093,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.549,
+		"fits": null,
+		"underVoDb": -3,
+		"rate": [
+			0.9,
+			1.12
+		],
+		"coversVoice": false
+	},
+	"digital-blip-clear": {
+		"file": "sounds/digital/digital-blip-clear.wav",
+		"duration": 0.163,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.077,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-blip-subtle": {
+		"file": "sounds/digital/digital-blip-subtle.wav",
+		"duration": 0.137,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.067,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-breach": {
+		"file": "sounds/digital/digital-breach.wav",
+		"duration": 0.924,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.919,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-corrupt": {
+		"file": "sounds/digital/digital-corrupt.wav",
+		"duration": 0.649,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.648,
+		"fits": [
+			0.54,
+			0.76
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"digital-decrypt": {
+		"file": "sounds/digital/digital-decrypt.wav",
+		"duration": 1.262,
+		"syncAt": 0.659,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.24,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-denied": {
+		"file": "sounds/digital/digital-denied.wav",
+		"duration": 0.35,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.341,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-glitch-clear": {
+		"file": "sounds/digital/digital-glitch-clear.wav",
+		"duration": 0.24,
+		"syncAt": 0.018,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.238,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-glitch-subtle": {
+		"file": "sounds/digital/digital-glitch-subtle.wav",
+		"duration": 0.164,
+		"syncAt": 0.02,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.162,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-hacker": {
+		"file": "sounds/digital/digital-hacker.wav",
+		"duration": 1.569,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.545,
+		"fits": [
+			1.29,
+			1.82
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"digital-interference": {
+		"file": "sounds/digital/digital-interference.wav",
+		"duration": 0.866,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.865,
+		"fits": [
+			0.72,
+			1.02
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"digital-power-down": {
+		"file": "sounds/digital/digital-power-down.wav",
+		"duration": 0.882,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.528,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-power-up": {
+		"file": "sounds/digital/digital-power-up.wav",
+		"duration": 1.131,
+		"syncAt": 0,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 1.125,
+		"fits": null,
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-process-clear": {
+		"file": "sounds/digital/digital-process-clear.wav",
+		"duration": 1.098,
+		"syncAt": 0.071,
+		"meets": "action-start",
+		"onset": 0.072,
+		"bodyEnd": 1.021,
+		"fits": [
+			0.83,
+			1.06
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-process-subtle": {
+		"file": "sounds/digital/digital-process-subtle.wav",
+		"duration": 1.119,
+		"syncAt": 0.093,
+		"meets": "action-start",
+		"onset": 0.094,
+		"bodyEnd": 1.022,
+		"fits": [
+			0.81,
+			1.03
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-radio": {
+		"file": "sounds/digital/digital-radio.wav",
+		"duration": 1.625,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.021,
+		"bodyEnd": 1.558,
+		"fits": [
+			1.3,
+			1.83
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"digital-scan-clear": {
+		"file": "sounds/digital/digital-scan-clear.wav",
+		"duration": 0.837,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.011,
+		"bodyEnd": 0.809,
+		"fits": [
+			0.7,
+			0.9
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-scan-subtle": {
+		"file": "sounds/digital/digital-scan-subtle.wav",
+		"duration": 0.841,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0.01,
+		"bodyEnd": 0.778,
+		"fits": [
+			0.68,
+			0.86
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.9,
+			1.15
+		],
+		"coversVoice": false
+	},
+	"digital-scramble": {
+		"file": "sounds/digital/digital-scramble.wav",
+		"duration": 0.955,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.952,
+		"fits": [
+			0.79,
+			1.12
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"digital-signal-drop": {
+		"file": "sounds/digital/digital-signal-drop.wav",
+		"duration": 0.793,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.624,
+		"fits": [
+			0.52,
+			0.73
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"digital-static": {
+		"file": "sounds/digital/digital-static.wav",
+		"duration": 0.646,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.634,
+		"fits": [
+			0.53,
+			0.75
+		],
+		"underVoDb": -4,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": true
+	},
+	"data-bar-grow": {
+		"file": "sounds/data/data-bar-grow.wav",
+		"duration": 0.35,
+		"syncAt": 0.328,
+		"meets": "arrival",
+		"onset": 0.026,
+		"bodyEnd": 0.337,
+		"fits": [
+			0.27,
+			0.38
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-chart-reveal": {
+		"file": "sounds/data/data-chart-reveal.wav",
+		"duration": 0.833,
+		"syncAt": 0.007,
+		"meets": "action-start",
+		"onset": 0.074,
+		"bodyEnd": 0.769,
+		"fits": [
+			0.64,
+			0.9
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-countup-long": {
+		"file": "sounds/data/data-countup-long.wav",
+		"duration": 2.219,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 2.213,
+		"fits": [
+			1.84,
+			2.6
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-countup-medium": {
+		"file": "sounds/data/data-countup-medium.wav",
+		"duration": 1.222,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.214,
+		"fits": [
+			1.01,
+			1.43
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-countup-short": {
+		"file": "sounds/data/data-countup-short.wav",
+		"duration": 0.621,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.614,
+		"fits": [
+			0.51,
+			0.72
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-decrease-long": {
+		"file": "sounds/data/data-decrease-long.wav",
+		"duration": 2.221,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 2.214,
+		"fits": [
+			1.85,
+			2.6
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-decrease-medium": {
+		"file": "sounds/data/data-decrease-medium.wav",
+		"duration": 1.221,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 1.214,
+		"fits": [
+			1.01,
+			1.43
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-decrease-short": {
+		"file": "sounds/data/data-decrease-short.wav",
+		"duration": 0.62,
+		"syncAt": 0,
+		"meets": "action-start",
+		"onset": 0,
+		"bodyEnd": 0.613,
+		"fits": [
+			0.51,
+			0.72
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-number-land": {
+		"file": "sounds/data/data-number-land.wav",
+		"duration": 0.233,
+		"syncAt": 0.011,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.091,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-progress-long": {
+		"file": "sounds/data/data-progress-long.wav",
+		"duration": 1.976,
+		"syncAt": 0.008,
+		"meets": "action-start",
+		"onset": 0.014,
+		"bodyEnd": 1.97,
+		"fits": [
+			1.64,
+			2.31
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-progress-short": {
+		"file": "sounds/data/data-progress-short.wav",
+		"duration": 0.992,
+		"syncAt": 0.007,
+		"meets": "action-start",
+		"onset": 0.032,
+		"bodyEnd": 0.987,
+		"fits": [
+			0.82,
+			1.15
+		],
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	},
+	"data-tick": {
+		"file": "sounds/data/data-tick.wav",
+		"duration": 0.018,
+		"syncAt": 0.008,
+		"meets": "instant",
+		"onset": 0,
+		"bodyEnd": 0.015,
+		"fits": null,
+		"underVoDb": -2,
+		"rate": [
+			0.85,
+			1.2
+		],
+		"coversVoice": false
+	}
+}

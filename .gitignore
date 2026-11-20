@@ -1,0 +1,12 @@
+node_modules/
+.env
+engine/out/
+engine/public/episodes/*/vo*.mp3
+engine/public/episodes/*/alignment.json
+engine/public/episodes/*/music.mp3
+research/inspo/*.mp4
+research/inspo/*.wav
+# Local secrets written by `elevenlabs onboard`
+/.env.local
+engine/public/sfx-kit/
+engine/public/geo/world.json

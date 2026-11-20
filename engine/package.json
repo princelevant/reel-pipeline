@@ -1,0 +1,35 @@
+{
+	"name": "reel-pipeline-engine",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"studio": "remotion studio",
+		"vo": "node --experimental-strip-types --no-warnings --env-file=../.env.local scripts/voiceover.ts",
+		"render": "remotion render",
+		"typecheck": "tsc --noEmit",
+		"qa": "node --experimental-strip-types --no-warnings scripts/qa.ts",
+		"geo": "node --experimental-strip-types --no-warnings scripts/build-geo.ts",
+		"still": "remotion still",
+		"sfx:sync": "node --experimental-strip-types --no-warnings scripts/sfx-sync.ts",
+		"master": "node --experimental-strip-types --no-warnings scripts/master.ts"
+	},
+	"dependencies": {
+		"@elevenlabs/elevenlabs-js": "^2.79.0",
+		"@react-three/fiber": "^9.8.2",
+		"@remotion/cli": "4.0.544",
+		"@remotion/google-fonts": "4.0.544",
+		"@remotion/media": "4.0.544",
+		"@remotion/three": "4.0.544",
+		"react": "^19.3.1",
+		"react-dom": "^19.3.1",
+		"remotion": "4.0.544",
+		"three": "^0.187.0",
+		"zod": "^4.6.7"
+	},
+	"devDependencies": {
+		"@types/node": "^26.6.6",
+		"@types/react": "^19.3.0",
+		"@types/three": "^0.187.0",
+		"typescript": "^7.0.2"
+	}
+}

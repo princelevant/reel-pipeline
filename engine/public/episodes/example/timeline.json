@@ -1,0 +1,564 @@
+{
+	"slug": "example",
+	"draft": true,
+	"audio": null,
+	"music": null,
+	"voMs": 29591,
+	"words": [
+		{
+			"text": "Picture",
+			"startMs": 0,
+			"endMs": 463,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "this:",
+			"startMs": 463,
+			"endMs": 823,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "your",
+			"startMs": 983,
+			"endMs": 1291,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "product",
+			"startMs": 1291,
+			"endMs": 1754,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "just",
+			"startMs": 1754,
+			"endMs": 2063,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "crossed",
+			"startMs": 2063,
+			"endMs": 2525,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "10,000",
+			"startMs": 2525,
+			"endMs": 3194,
+			"beat": "hook",
+			"highlight": true
+		},
+		{
+			"text": "weekly",
+			"startMs": 3194,
+			"endMs": 3605,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "users.",
+			"startMs": 3605,
+			"endMs": 4017,
+			"beat": "hook",
+			"highlight": false
+		},
+		{
+			"text": "And",
+			"startMs": 4457,
+			"endMs": 4714,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "for",
+			"startMs": 4714,
+			"endMs": 4971,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "the",
+			"startMs": 4971,
+			"endMs": 5228,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "first",
+			"startMs": 5228,
+			"endMs": 5588,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "time,",
+			"startMs": 5588,
+			"endMs": 5948,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "more",
+			"startMs": 6108,
+			"endMs": 6416,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "people",
+			"startMs": 6416,
+			"endMs": 6828,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "are",
+			"startMs": 6828,
+			"endMs": 7085,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "staying",
+			"startMs": 7085,
+			"endMs": 7548,
+			"beat": "twist",
+			"highlight": true
+		},
+		{
+			"text": "than",
+			"startMs": 7548,
+			"endMs": 7856,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "leaving.",
+			"startMs": 7856,
+			"endMs": 8370,
+			"beat": "twist",
+			"highlight": false
+		},
+		{
+			"text": "90",
+			"startMs": 8810,
+			"endMs": 9119,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "days",
+			"startMs": 9119,
+			"endMs": 9428,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "ago",
+			"startMs": 9428,
+			"endMs": 9685,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "it",
+			"startMs": 9685,
+			"endMs": 9890,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "was",
+			"startMs": 9890,
+			"endMs": 10147,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "half",
+			"startMs": 10147,
+			"endMs": 10456,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "that",
+			"startMs": 10456,
+			"endMs": 10765,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "—",
+			"startMs": 10765,
+			"endMs": 10919,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "growth",
+			"startMs": 11079,
+			"endMs": 11490,
+			"beat": "growth",
+			"highlight": true
+		},
+		{
+			"text": "compounds",
+			"startMs": 11490,
+			"endMs": 12056,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "once",
+			"startMs": 12056,
+			"endMs": 12364,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "a",
+			"startMs": 12364,
+			"endMs": 12519,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "product",
+			"startMs": 12519,
+			"endMs": 12981,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "earns",
+			"startMs": 12981,
+			"endMs": 13341,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "a",
+			"startMs": 13341,
+			"endMs": 13496,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "second",
+			"startMs": 13496,
+			"endMs": 13907,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "visit.",
+			"startMs": 13907,
+			"endMs": 14318,
+			"beat": "growth",
+			"highlight": false
+		},
+		{
+			"text": "Every",
+			"startMs": 14758,
+			"endMs": 15118,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "new",
+			"startMs": 15118,
+			"endMs": 15375,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "cohort",
+			"startMs": 15375,
+			"endMs": 15787,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "adds",
+			"startMs": 15787,
+			"endMs": 16095,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "another",
+			"startMs": 16095,
+			"endMs": 16558,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "block",
+			"startMs": 16558,
+			"endMs": 16918,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "to",
+			"startMs": 16918,
+			"endMs": 17124,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "the",
+			"startMs": 17124,
+			"endMs": 17381,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "skyline.",
+			"startMs": 17381,
+			"endMs": 17895,
+			"beat": "skyline",
+			"highlight": false
+		},
+		{
+			"text": "The",
+			"startMs": 18335,
+			"endMs": 18592,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "next",
+			"startMs": 18592,
+			"endMs": 18901,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "milestone:",
+			"startMs": 18901,
+			"endMs": 19518,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "50,000",
+			"startMs": 19678,
+			"endMs": 20346,
+			"beat": "next",
+			"highlight": true
+		},
+		{
+			"text": "users,",
+			"startMs": 20346,
+			"endMs": 20758,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "by",
+			"startMs": 20918,
+			"endMs": 21123,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "the",
+			"startMs": 21123,
+			"endMs": 21381,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "sprint",
+			"startMs": 21381,
+			"endMs": 21792,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "that",
+			"startMs": 21792,
+			"endMs": 22100,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "ships",
+			"startMs": 22100,
+			"endMs": 22460,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "referrals.",
+			"startMs": 22460,
+			"endMs": 23077,
+			"beat": "next",
+			"highlight": false
+		},
+		{
+			"text": "Every",
+			"startMs": 23517,
+			"endMs": 23877,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "growth",
+			"startMs": 23877,
+			"endMs": 24289,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "story",
+			"startMs": 24289,
+			"endMs": 24649,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "can",
+			"startMs": 24649,
+			"endMs": 24906,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "take",
+			"startMs": 24906,
+			"endMs": 25214,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "this",
+			"startMs": 25214,
+			"endMs": 25523,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "shape",
+			"startMs": 25523,
+			"endMs": 25883,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "—",
+			"startMs": 25883,
+			"endMs": 26037,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "yours",
+			"startMs": 26197,
+			"endMs": 26557,
+			"beat": "payoff",
+			"highlight": true
+		},
+		{
+			"text": "starts",
+			"startMs": 26557,
+			"endMs": 26968,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "with",
+			"startMs": 26968,
+			"endMs": 27277,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "the",
+			"startMs": 27277,
+			"endMs": 27534,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "first",
+			"startMs": 27534,
+			"endMs": 27894,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "number",
+			"startMs": 27894,
+			"endMs": 28305,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "worth",
+			"startMs": 28305,
+			"endMs": 28665,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "bragging",
+			"startMs": 28665,
+			"endMs": 29180,
+			"beat": "payoff",
+			"highlight": false
+		},
+		{
+			"text": "about.",
+			"startMs": 29180,
+			"endMs": 29591,
+			"beat": "payoff",
+			"highlight": false
+		}
+	],
+	"beats": [
+		{
+			"id": "hook",
+			"startMs": 0,
+			"endMs": 4017,
+			"kicker": "WEEK 1 · WEEKLY ACTIVE USERS"
+		},
+		{
+			"id": "twist",
+			"startMs": 4457,
+			"endMs": 8370
+		},
+		{
+			"id": "growth",
+			"startMs": 8810,
+			"endMs": 14318,
+			"kicker": "90 DAYS · COHORT GROWTH"
+		},
+		{
+			"id": "skyline",
+			"startMs": 14758,
+			"endMs": 17895
+		},
+		{
+			"id": "next",
+			"startMs": 18335,
+			"endMs": 23077,
+			"kicker": "NEXT MILESTONE"
+		},
+		{
+			"id": "payoff",
+			"startMs": 23517,
+			"endMs": 29591
+		}
+	],
+	"kicker": "DEMO · PLACEHOLDER NUMBERS",
+	"endCard": true
+}

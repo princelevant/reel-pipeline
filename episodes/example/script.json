@@ -1,0 +1,41 @@
+{
+	"slug": "example",
+	"kicker": "DEMO · PLACEHOLDER NUMBERS",
+	"endCard": true,
+	"voice": {"voiceId": "JBFqnCBsd6RMkjVDRZzb", "modelId": "eleven_v4", "stability": 0.5, "similarityBoost": 0.75},
+	"beats": [
+		{
+			"id": "hook",
+			"kicker": "WEEK 1 · WEEKLY ACTIVE USERS",
+			"text": "Picture this: your product just crossed *10,000* weekly users.",
+			"visual": "HeroStat 10,000 counts up on '10,000', sub 'weekly active users'; Mo cheers; camera pushes in from the wide home shot"
+		},
+		{
+			"id": "twist",
+			"text": "And for the first time, more people are *staying* than leaving.",
+			"visual": "HeroStat fades; Mo mood shifts to happy on 'staying'; camera holds, slow drift"
+		},
+		{
+			"id": "growth",
+			"kicker": "90 DAYS · COHORT GROWTH",
+			"text": "90 days ago it was half that — *growth* compounds once a product earns a second visit.",
+			"visual": "FlipBoard '90 DAYS AGO' on '90'; camera glides toward a skyline; District towers start rising on 'growth', each block one cohort"
+		},
+		{
+			"id": "skyline",
+			"text": "Every new cohort adds another block to the skyline.",
+			"visual": "District keeps rising; MapLabel 'COHORT GROWTH' pins above the tallest tower on 'skyline'"
+		},
+		{
+			"id": "next",
+			"kicker": "NEXT MILESTONE",
+			"text": "The next milestone: *50,000* users, by the sprint that ships referrals.",
+			"visual": "HeroStat 50,000 counts up on '50,000', sub 'next milestone'; FlipBoard 'SHIPS REFERRALS' underneath; camera pulls back to the wide shot"
+		},
+		{
+			"id": "payoff",
+			"text": "Every growth story can take this shape — *yours* starts with the first number worth bragging about.",
+			"visual": "wide hold on the whole skyline + both stats' afterglow; Mo waves; Disclaimer 'Placeholder numbers — swap in your own data.' stays on screen throughout"
+		}
+	]
+}
